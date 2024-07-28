@@ -1,5 +1,7 @@
 # FirebaseIntegrity
 creating login page with firbase integrity by email and phone no. signup
+master branch contains the file for email authentication
+OTPauth branch contains the file for otp authentication
 
 
 1.email
